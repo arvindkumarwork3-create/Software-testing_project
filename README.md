@@ -1,2 +1,2 @@
 # Software-testing_project
-This repo dev for testing the software product
+This repo created for testing the software product and test cases and API procedure to validate response
